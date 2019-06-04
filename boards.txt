@@ -2,6 +2,7 @@
 # Do not create pull-requests for this file only, CI will not accept them.
 # You *must* edit/modify/run boards.txt.py to regenerate boards.txt.
 # All modified files after running with option "--allgen" must be included in the pull-request.
+# test
 #
 
 menu.BoardModel=Model
